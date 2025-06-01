@@ -1,0 +1,1 @@
+\n# Jupyter\n.ipynb_checkpoints/\n*.nbconvert.ipynb\n\n# Envs\n.venv/\nenv/\n\n# Data\ndata/*\n!data/README.md\n\n# OS / IDE\n.DS_Store\n.vscode/\n
