@@ -28,8 +28,8 @@ Click the badge above or watch the [YouTube video](https://www.youtube.com/watch
 
 ```bash
 # clone
-git clone https://github.com/<USER>/titanic-survival-prediction.git
-cd titanic-survival-prediction
+git clone https://github.com/f-petrozzi/titanic_survival_prediction.git
+cd titanic_survival_prediction
 
 # create and activate a virtual environment
 python -m venv .venv
